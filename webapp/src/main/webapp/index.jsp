@@ -6,7 +6,7 @@ h1 {text-align: center;}
 </head>
 <h1> COPA - Azure DevOps POC </h1>
 
-<h3>Azure DevOps tools used in the POC:</h3>
+<h3>Azure DevOps tools used in the POC123:</h3>
 <p> Azure App Services - to host the webapp in Azure cloud </p>
 <p> Pipelines  - to automate build/test/deployments of code</p>
 <p> Repos - used for selenium code (can use GitHub instead)</p>
